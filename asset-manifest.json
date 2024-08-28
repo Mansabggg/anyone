@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//mansabggg.github.io/anyone/static/css/main.5699c965.css",
-    "main.js": "/http//mansabggg.github.io/anyone/static/js/main.d95cc501.js",
-    "static/js/787.1f4915a4.chunk.js": "/http//mansabggg.github.io/anyone/static/js/787.1f4915a4.chunk.js",
-    "index.html": "/http//mansabggg.github.io/anyone/index.html",
-    "main.5699c965.css.map": "/http//mansabggg.github.io/anyone/static/css/main.5699c965.css.map",
-    "main.d95cc501.js.map": "/http//mansabggg.github.io/anyone/static/js/main.d95cc501.js.map",
-    "787.1f4915a4.chunk.js.map": "/http//mansabggg.github.io/anyone/static/js/787.1f4915a4.chunk.js.map"
+    "main.css": "/anyone/static/css/main.5699c965.css",
+    "main.js": "/anyone/static/js/main.89ecdc6f.js",
+    "static/js/787.1f4915a4.chunk.js": "/anyone/static/js/787.1f4915a4.chunk.js",
+    "index.html": "/anyone/index.html",
+    "main.5699c965.css.map": "/anyone/static/css/main.5699c965.css.map",
+    "main.89ecdc6f.js.map": "/anyone/static/js/main.89ecdc6f.js.map",
+    "787.1f4915a4.chunk.js.map": "/anyone/static/js/787.1f4915a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5699c965.css",
-    "static/js/main.d95cc501.js"
+    "static/js/main.89ecdc6f.js"
   ]
 }
